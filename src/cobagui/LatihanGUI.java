@@ -31,6 +31,7 @@ public class LatihanGUI implements ActionListener {
      * 
      */
     public LatihanGUI() {
+        // Test Comments
         frame = new JFrame();
         frame.setSize(500, 700);
         frame.getContentPane().setBackground(Color.yellow);
